@@ -2,7 +2,7 @@ package Percabangan;
 
 public class Switch {
     public static void main(String[] args) {
-        int uang = 1;
+        int uang = 8;
         switch (uang) {
             case 1 :
                 System.out.println("Rp.100,00");
