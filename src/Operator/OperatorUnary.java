@@ -5,11 +5,11 @@ public class OperatorUnary {
         int i = 0;
         i+=3;
         System.out.println(i);
-        i+=3;
+        i+=1;
         System.out.println(i);
         i*=3;
         System.out.println(i);
-        i*=3;
+        i*=1;
         System.out.println(i);
     }
 }
